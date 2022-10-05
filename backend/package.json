@@ -8,6 +8,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server",
+    "build": "node server",
     "server": "nodemon server.js",
     "client": "npm start --prefix client"
   },
